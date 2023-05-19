@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IdentityTable.props" />
+</Project>
